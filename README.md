@@ -1,4 +1,4 @@
-Car-Purchasing-Amount-Prediction
+# Car-Purchasing-Amount-Prediction
 
 This predicts the car purchasing amount by a customer if certain features such as salary,credit card debt, networth ,age are provided.This model prediction is based on artificial neural network.
 This dataset contains 500 rows and 9 columns.
